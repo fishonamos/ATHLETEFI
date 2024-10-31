@@ -1,1 +1,1 @@
-DAO Voting System on Starknet
+AthleteFi addresses the gap in interactive fantasy sports for sports enthusiasts and NFT collectors through a blockchain-based game where users collect real-world athlete NFTs and participate in dynamic fantasy sports competitions
