@@ -9,7 +9,7 @@ import './styles/index.css';
 const argentTMA = ArgentTMA.init({
   environment: "sepolia",
   appName: "AthleteFi Fantasy League",
-  appTelegramUrl: "https://t.me/your_bot_username/app", // Replace with your bot username
+  appTelegramUrl: "https://t.me/your_bot_username/app",
   sessionParams: {
     allowedMethods: [
       {
@@ -55,7 +55,7 @@ const App: React.FC = () => {
 
   const handleJoinChallenge = async (challengeId: string) => {
     console.log(`Joining challenge ${challengeId}`);
-    // TODO: Implement challenge joining logic
+    // TODO: Implement challenge joini
   };
 
   return (
